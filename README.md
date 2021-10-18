@@ -1,9 +1,9 @@
 # Weather-Conditions
-This is a simple program that ask the user to input what city that they would like to recieve weather conditions for and outputs it to the user.
+This is a simple program that ask the user to input what city and state ISO_3166-2 code that they would like to recieve weather conditions for and outputs it to the user.
 
 ## Description
 
-This is a simple program that ask the user to input what city that they would like to recieve weather conditions for and outputs it to the user. The program is a static command line program that shows the user in a visual fashion what the tax would be based on a given rate.
+This is a simple program that ask the user to input what city and state ISO_3166-2 code that they would like to recieve weather conditions for and outputs it to the user. The program is a static command line program that shows the user in a visual fashion what the tax would be based on a given rate.
 ## Getting Started
 
 ### Dependencies
@@ -51,4 +51,4 @@ This project is licensed under the [GNU Privacy v3] License - see the LICENSE.md
 
 ## Acknowledgments
 
-Inspiration taken from using the 'nmap' port scanning tool. 
+Inspiration taken from using the yahoo weather tool. 
